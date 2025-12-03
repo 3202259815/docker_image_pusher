@@ -5,5 +5,14 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+# Prometheus
+docker.io/prom/prometheus:latest
+
+# Grafana
+docker.io/grafana/grafana:latest
+
+# Node Exporter
+docker.io/prom/node-exporter:latest
+
 #翼龙的docker
-registry.cn-hangzhou.aliyuncs.com/lcayun/steamcmd:ProjectZomboid
+#registry.cn-hangzhou.aliyuncs.com/lcayun/steamcmd:ProjectZomboid
